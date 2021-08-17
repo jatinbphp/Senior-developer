@@ -1,4 +1,6 @@
 <?php
+  echo "<pre>";print_r('Demo page');
+  exit();
   	echo "<pre>";
     $totalNum = 100;
     for($i=1;$i<=$totalNum;$i++)
